@@ -1,0 +1,4 @@
+Output:A#chess#board#has#16#pawns.
+
+
+
